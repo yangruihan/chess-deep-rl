@@ -3,5 +3,5 @@ matplotlib
 numpy
 tqdm
 typing_extensions
-tensorflow-gpu
+tensorflow==2.6.0
 python-dotenv
